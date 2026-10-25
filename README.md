@@ -2,7 +2,7 @@
 
 [My Codeberg Profile](https://codeberg.org/brodo)
 
-- [Aro](https://github.com/Vexu/arocc) - Worked on various improvements for ARM compilation 
+- [Aro](https://github.com/Vexu/arocc) - Worked on various things, mostly focussed on the driver, Clang compatibility and platform support
 - [Go](https://go.dev) - Improved documentation for the `go test` CLI and the `testing` library
 - [Node.js](https://nodejs.org/) - Improved documentation for the `util` module and the `Error` class.
 - [Axios HTTP Client](https://github.com/axios/axios) - Reimplemented error classes
